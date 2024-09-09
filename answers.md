@@ -29,13 +29,24 @@ Tracked files:
     README.md
 
 Answer 6:
-On branch main
-Tracked files:
-    README.md
-    answers.md
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
 
 Answer 7:
+On branch master
 
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
 
 Answer 8:
 commit cf9b4e62c7948a2b3a4b254e0012fd2280af8683 (HEAD -> main)
@@ -45,6 +56,13 @@ Date:   Fri Sep 6 16:53:33 2024 -0400
     Initial commit
 
 Answer 9:
-On branch main
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
 
 Answer 10:
