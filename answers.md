@@ -66,3 +66,14 @@ Changes to be committed:
 	new file:   answers.md
 
 Answer 10:
+Nothing changed in my README file
+
+Answer 11:
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/ryansmitty2/git-lab.git'
+
+Answer 12:
+What was entered in git-lab was transferred into my README file
+
+Answer 13:
+.  ..  .git  .gitignore  README.md
